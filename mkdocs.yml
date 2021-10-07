@@ -1,22 +1,24 @@
-# Project Information
-site_name: OI Wiki
-site_description: OI Wiki 是一个编程竞赛知识整合站点，提供有趣又实用的编程竞赛知识以及其他有帮助的内容，帮助广大编程竞赛爱好者更快更深入地学习编程竞赛
-site_author: OI Wiki Team
-site_url: https://oi-wiki.org
+# 项目信息
+site_name: OpenGL Book
+site_description: OpenGL Book 是OpenGL图形库教程，beanflame哲学研究教程文档设计工程计划，尝试写得很细，语言要通俗易懂，希望能够建立起一个完善的OpenGL教程。
+site_author: beanflame
+# site_url: https://oi-wiki.org
 strict: false
 
-# Repository
-repo_name: 'OI-wiki/OI-wiki'
-repo_url: 'https://github.com/OI-wiki/OI-wiki'
+# 存储库
+repo_name: 'beanflame/opengl-book'
+repo_url: 'https://github.com/beanflame/opengl-book'
 edit_uri: 'https://oi-wiki.org/edit-landing/?ref='
 
-# Copyright
-copyright: 'Copyright &copy; 2016 - 2021 OI Wiki Team'
+
+# 版权
+copyright: 'Copyright &copy; 2021 - 2021 OpenGL Book'
 google_analytics:
   - 'UA-124485594-1'
   - 'auto'
 
-# Contents
+
+# 目录
 nav:
   - 简介:
     - Getting Started: index.md
@@ -466,7 +468,7 @@ nav:
   - 关于 Hulu:
     -  关于 Hulu: intro/hulu.md
 
-# Theme
+# 主题
 theme:
   name: null
   custom_dir: 'mkdocs-material/material'
@@ -488,10 +490,10 @@ theme:
     text: 'Fira Sans'
     code: 'Fira Mono'
 
-# Customization
+# 定制
 extra:
   search:
-    language: 'jp'
+    language: 'zh'
   disqus: 'OI-Wiki'
   copyright: '<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">CC BY-SA 4.0</a> 和 <a href="https://github.com/zTrix/sata-license">SATA</a>'
   pagetime: 'on'
@@ -513,7 +515,7 @@ extra_javascript:
 extra_css:
   - '_static/css/extra.css?v=13'
 
-# Extensions
+# 扩展
 markdown_extensions:
   - admonition
   - codehilite:
