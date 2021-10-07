@@ -22,7 +22,7 @@ google_analytics:
 nav:
   - 主页: 'index.md'
   - 目录:
-    - Getting Started: index.md
+    - OpenGL Book: index.md
   
   
 #  - 简介:
