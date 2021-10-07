@@ -22,7 +22,11 @@ google_analytics:
 nav:
   - 主页: 'index.md'
   - 目录:
-    - OpenGL Book: index.md
+    - 简介: 'intro.md'
+    - 入门:
+      - OpenGL: '1-introduction/1-OpenGL.md'
+      - OpenGL配置: '1-introduction/2-OpenGL-Configuration.md'
+      - 创建窗口: '1-introduction/3-Create-Window.md'
   
   
 #  - 简介:
