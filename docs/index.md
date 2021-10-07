@@ -9,7 +9,31 @@
 
 本项目受[OI Wiki](https://oi-wiki.org/)、[CTF Wiki](https://ctf-wiki.org/)的启发，在编写过程中参考了诸多资料，在此一并致谢。
 
+
+
+
+
+
+
 ## Material color palette 颜色主题
+
+### Color Scheme 配色方案
+
+根据浏览器与系统设置自动切换明暗主题，也可手动切换
+<div class="tx-switch">
+<button data-md-color-scheme="default"><code>Default</code></button>
+<button data-md-color-scheme="slate"><code>Slate</code></button>
+</div>
+<script>
+  var buttons = document.querySelectorAll("button[data-md-color-scheme]")
+  Array.prototype.forEach.call(buttons, function(button) {
+    button.addEventListener("click", function() {
+      document.body.dataset.mdColorScheme = this.dataset.mdColorScheme;
+      localStorage.setItem("data-md-color-scheme",this.dataset.mdColorScheme);
+    })
+  })
+</script>
+
 
 ### Primary colors 主色
 
