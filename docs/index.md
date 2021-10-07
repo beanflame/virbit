@@ -1,8 +1,7 @@
-
-
 ## 欢迎 **virbit**
 
-[![GitHub watchers](https://img.shields.io/github/watchers/beanflame/virbit.svg?style=social&label=Watch)](https://github.com/beanflame/virbit)  [![GitHub stars](https://img.shields.io/github/stars/beanflame/virbit.svg?style=social&label=Stars)](https://github.com/beanflame/virbit)
+[![GitHub watchers](https://img.shields.io/github/watchers/beanflame/virbit.svg?style=social&label=Watch)](https://github.com/beanflame/virbit)
+[![GitHub stars](https://img.shields.io/github/stars/beanflame/virbit.svg?style=social&label=Stars)](https://github.com/beanflame/virbit)
 
 [![Word Art](https://cdn.jsdelivr.net/npm/oicdn@0.0.1/wordArt.webp)](https://github.com/OI-wiki/OI-wiki)
 
