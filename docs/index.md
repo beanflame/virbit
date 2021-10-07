@@ -2,9 +2,9 @@ disqus:
 pagetime:
 title: OpenGL Book
 
-## OpenGL Book
+# OpenGL Book
 
-## 欢迎 OpenGL Book
+欢迎 OpenGL Book
 
 &~OpenGL Book~&是！~从2021年开始的[beanflame](https://blog.beanflame.cn/)哲学研究教程文档设计工程计划，~！是[beanflame](https://blog.beanflame.cn/)尝试写得很细，语言要通俗易懂，希望能够建立起一个完善的&~OpenGL教程~&。
 无论你学习&~OpenGL~&是！~为了学业，找工作，或仅仅是因为兴趣~！，&~OpenGL Book网站~&都将能够教会你&~现代OpenGL(Core-profile)~&从基础，中级，到高级的知识。
