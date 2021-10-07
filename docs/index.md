@@ -2,7 +2,7 @@ disqus:
 pagetime:
 title: OpenGL Book
 
-## OpenGL Book 你好
+## OpenGL Book
 
 欢迎 OpenGL Book
 
