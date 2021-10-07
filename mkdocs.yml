@@ -21,14 +21,14 @@ google_analytics:
 # 目录
 nav:
   - 主页: 'index.md'
-  - 简介:
-    - Getting Started: index.md
-    - 关于本项目: intro/about.md
-    - 如何参与: intro/htc.md
-    - 格式手册: intro/format.md
-    - F.A.Q.: intro/faq.md
-    - 用 Docker 部署 OI Wiki: intro/docker-deploy.md
-    - 致谢: intro/thanks.md
+#  - 简介:
+#    - Getting Started: index.md
+#    - 关于本项目: intro/about.md
+#    - 如何参与: intro/htc.md
+#    - 格式手册: intro/format.md
+#    - F.A.Q.: intro/faq.md
+#    - 用 Docker 部署 OI Wiki: intro/docker-deploy.md
+#    - 致谢: intro/thanks.md
 
 # 主题
 theme:
