@@ -1,5 +1,5 @@
 # 项目信息
-site_name: virbit官网
+site_name: virbit
 site_description: virbit 是教程文档，beanflame哲学研究教程文档设计工程计划，尝试写得很细，语言要通俗易懂，希望能够建立起一个完善的教程。
 site_author: beanflame
 # site_url: https://oi-wiki.org
@@ -20,7 +20,7 @@ google_analytics:
 
 # 目录
 nav:
-  - virbit:
+  - virbit官网:
     - 主页: 'index.md'
     - 主题: 'theme.md'
   - OpenGL:
