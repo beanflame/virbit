@@ -6,7 +6,7 @@
 
 [![Word Art](https://cdn.jsdelivr.net/npm/oicdn@0.0.1/wordArt.webp)](https://github.com/OI-wiki/OI-wiki)
 
-**virbit** 致力于成为一个免费开放且持续更新的 **编程竞赛 (competitive programming)** 知识整合站点，大家可以在这里获取与竞赛相关的、有趣又实用的知识。我们为大家准备了竞赛中的基础知识、常见题型、解题思路以及常用工具等内容，帮助大家更快速深入地学习编程竞赛中涉及到的知识。
+**virbit** 是教程文档，beanflame哲学研究教程文档设计工程计划，尝试写得很细，语言要通俗易懂，希望能够建立起一个完善的教程。
 
 本项目受 [OI Wiki](https://oi-wiki.org/) 、 [CTF Wiki](https://ctf-wiki.org/) 的启发，在编写过程中参考了诸多资料，在此一并致谢。
 
