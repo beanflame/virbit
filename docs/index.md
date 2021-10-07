@@ -3,7 +3,7 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/beanflame/virbit.svg?style=social&label=Watch)](https://github.com/beanflame/virbit)
 [![GitHub stars](https://img.shields.io/github/stars/beanflame/virbit.svg?style=social&label=Stars)](https://github.com/beanflame/virbit)
 
-[![Word Art](https://cdn.jsdelivr.net/npm/oicdn@0.0.1/wordArt.webp)](https://github.com/OI-wiki/OI-wiki)
+[![Word Art](virbit-logo.svg)](https://github.com/OI-wiki/OI-wiki)
 
 **virbit** 是教程文档，beanflame哲学研究教程文档设计工程计划，尝试写得很细，语言要通俗易懂，希望能够建立起一个完善的教程。
 
